@@ -1,2 +1,1 @@
-# asgasgashsah
-erjherjerj
+git checkout --orphan assets.
